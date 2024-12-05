@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "author": "",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.5.2",
+    "@ant-design/x": "^1.0.2",
+    "antd": "^5.22.3",
+    "umi": "^4.3.35"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "@umijs/plugins": "^4.3.35",
+    "typescript": "^5.0.3"
+  }
+}
